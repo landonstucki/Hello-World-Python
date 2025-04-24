@@ -14,4 +14,4 @@ Python Language
 
 # Useful Websites
 
-* [Web Site Name](https://www.python.org/doc/)
+* [Python Documentation](https://www.python.org/doc/)
